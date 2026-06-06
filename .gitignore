@@ -1,0 +1,32 @@
+# Build
+build/
+*.exe
+*.pdb
+*.o
+*.obj
+*.out
+*.ilk
+*.exp
+*.lib
+*.dll
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Debug
+test/Debug/
